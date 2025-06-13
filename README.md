@@ -18,24 +18,11 @@ Passionate about digital transformation, automation, and leveraging technology t
 
 📜 IBM Java Developer Professional Certificate (pending completion) & multiple IBM certifications
 
-
-🚀 Projects
+🚀 Project
 
 Onienga AgriInfo Portal (In Progress)
 
 A responsive, vanilla-HTML/CSS/JavaScript agricultural information hub showcasing dynamic crop profiles, farmer testimonials, and a contact form.
-View project »
-
-Farm Management System
-
-A JS-based dashboard for tracking crop health, irrigation schedules, and yield forecasts.
-View project »
-
-Crop Disease Detection Website
-
-A computer-vision ML project to identify common crop diseases from images.
-View project »
-
 
 🛠️ Skills & Tech
 
@@ -49,7 +36,6 @@ DevOps: Git, GitHub, CI/CD, Docker
 
 Domain Expertise: AgriTech, PropTech, Data Science, Automation
 
-
 🌱 Connect with Me
 
 ✉️ Email: tatendacraigngaliwa@gmail.com
@@ -57,5 +43,3 @@ Domain Expertise: AgriTech, PropTech, Data Science, Automation
 🔗 LinkedIn: linkedin.com/in/tatenda-ngaliwa
 
 🐦 Twitter: @TatendaNgaliwa
-
-
