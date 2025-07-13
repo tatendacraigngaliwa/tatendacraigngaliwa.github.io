@@ -1,45 +1,11 @@
-Aspiring AI Engineer & Computer Scientist | Agricultural IT Specialist | Founder & CEO at Zabrano Properties
+Clifton Strengths: Achiever | Learner | Strategic | Futuristic | Input | Developer | Relator
 
-Passionate about digital transformation, automation, and leveraging technology to drive innovation in agriculture and real estate across Zimbabwe and Africa.
+Aspiring Agricultural Information Technology Specialist engineering ethical digital transformation where ancestral farming wisdom converges with cutting-edge technology.
 
-📚 About Me
+Focus Areas
+Prototyping low cost IoT soil sensors to reduce water waste, converting real-time sensor data into precision water and soil conservation strategies, and building offline-capable farm management tools for remote smallholder communities.
 
-📚 Self-driven scholar in Agricultural Information Technology
+Education & Goals
+IBM-Certified Java Developer preparing to pursue a BSc (Hons) in Agricultural Information Technology and targeting advanced certifications in AI and cloud architecture.
 
-🤖 Aspiring AI Engineer in Machine Learning & Computer Scientist
-
-🔄 Advocate for Digital Transformation & Automation
-
-💼 Founder & CEO of Zabrano Properties Pvt Ltd (5,000+ users)
-
-🏆 Young Entrepreneur of the Year 2025 (Chronicle News)
-
-🌐 Forbes BLK Member
-
-📜 IBM Java Developer Professional Certificate (pending completion) & multiple IBM certifications
-
-🚀 Project
-
-Onienga AgriInfo Portal (In Progress)
-
-A responsive, vanilla-HTML/CSS/JavaScript agricultural information hub showcasing dynamic crop profiles, farmer testimonials, and a contact form.
-
-🛠️ Skills & Tech
-
-Languages: Python, JavaScript, Java, SQL, HTML, CSS
-
-AI/ML: TensorFlow, scikit-learn, PyTorch basics
-
-Frameworks/Tools: Node.js, React, Express, VS Code
-
-DevOps: Git, GitHub, CI/CD, Docker
-
-Domain Expertise: AgriTech, PropTech, Data Science, Automation
-
-🌱 Connect with Me
-
-✉️ Email: tatendacraigngaliwa@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/tatenda-ngaliwa
-
-🐦 Twitter: @TatendaNgaliwa
+Driven to build systems that are resilient (climate-adaptive), inclusive (smallholder-accessible), and future-proof (scalable & interoperable). Let’s connect to cultivate solutions that serve both people and planet.
