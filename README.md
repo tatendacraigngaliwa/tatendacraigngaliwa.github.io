@@ -1,11 +1,7 @@
-Clifton Strengths: Achiever | Learner | Strategic | Futuristic | Input | Developer | Relator
+I’m Tatenda Craig Ngaliwa, an aspiring Agricultural Information Technology Specialist and IBM-Certified Java Developer, passionate about building inclusive, climate-resilient digital tools for Africa’s smallholder farmers. As someone who stands at the crossroads of tradition and technology, I believe in harmonizing ancestral farming wisdom with modern innovations to engineer ethical solutions that genuinely serve both people and the planet.
 
-Aspiring Agricultural Information Technology Specialist engineering ethical digital transformation where ancestral farming wisdom converges with cutting-edge technology.
+My core focus is on prototyping low-cost IoT soil sensors that help reduce water waste, especially in rural agricultural settings. By transforming real-time sensor data into actionable insights, I aim to empower farmers with precision-driven water and soil conservation strategies. I’m also developing offline-capable farm management systems—designed specifically for remote communities with limited internet access—to ensure that no farmer is left behind in the digital transformation of agriculture.
 
-Focus Areas
-Prototyping low cost IoT soil sensors to reduce water waste, converting real-time sensor data into precision water and soil conservation strategies, and building offline-capable farm management tools for remote smallholder communities.
+Currently preparing to pursue a Bachelor of Science (Honours) in Agricultural Information Technology, I’m also expanding my skills in AI, cloud computing, and scalable system architecture. My strengths lie in continuous learning (Learner), strategic thinking (Strategic, Futuristic), and a deep drive to build meaningful, human-centered technology (Developer, Relator).
 
-Education & Goals
-IBM-Certified Java Developer preparing to pursue a BSc (Hons) in Agricultural Information Technology and targeting advanced certifications in AI and cloud architecture.
-
-Driven to build systems that are resilient (climate-adaptive), inclusive (smallholder-accessible), and future-proof (scalable & interoperable). Let’s connect to cultivate solutions that serve both people and planet.
+Through every line of code, I’m working toward a future where farming is not only more productive and sustainable, but also more accessible—bridging the digital divide, one solution at a time.
