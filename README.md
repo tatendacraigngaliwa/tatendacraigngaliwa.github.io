@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-I’m **Tatenda Craig Ngaliwa**, a STEM student from **Harare/Bulawayo, Zimbabwe**, currently pursuing a **BSc (Hons) in Agricultural Information Technology** at the University of Zimbabwe. As an IBM‑Certified Java Developer and aspiring Ag‑IT specialist, I’m passionate about embedding ancestral farming wisdom into digital solutions for climate resilience and smallholder access.
+I’m **Tatenda Craig Ngaliwa**, a STEM student from **Harare/Bulawayo, Zimbabwe**, currently preparing to pursue a **BSc (Hons) in Agricultural Information Technology** at the National University of Science and Technology. As an IBM‑Certified Java Developer and aspiring Ag‑IT specialist, I’m passionate about embedding ancestral farming wisdom into digital solutions for climate resilience and smallholder access.
 
 ---
 
