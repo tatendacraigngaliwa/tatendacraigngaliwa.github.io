@@ -1,7 +1,5 @@
 # Tatenda Craig Ngaliwa's GitHub Portfolio
 
-![Banner](https://via.placeholder.com/1000x250.png?text=AgriTech+%2B+PropTech+Innovation)
-
 *Engineering ethical digital transformation for sustainable agriculture and building innovative digital real estate solutions.*
 
 ---
