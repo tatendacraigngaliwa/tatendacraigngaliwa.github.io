@@ -1,74 +1,64 @@
 # Tatenda Craig Ngaliwa's GitHub Portfolio
 
-![Banner](https://via.placeholder.com/1000x250.png?text=Agriculture+%2B+Technology)  
-*Engineering ethical digital transformation for sustainable agriculture.*
+![Banner](https://via.placeholder.com/1000x250.png?text=AgriTech+with+IoT+Love)
+
+*Engineering ethical digital transformation for sustainable agriculture in smallholder communities.*
+
+---
+
+## 👤 About Me
+
+I’m **Tatenda Craig Ngaliwa**, a STEM student from **Harare/Bulawayo, Zimbabwe**, currently pursuing a **BSc (Hons) in Agricultural Information Technology** at the University of Zimbabwe. As an IBM‑Certified Java Developer and aspiring Ag‑IT specialist, I’m passionate about embedding ancestral farming wisdom into digital solutions for climate resilience and smallholder access.
 
 ---
 
 ## 🌟 Clifton Strengths
 
-- **Achiever**: I set and accomplish ambitious goals.  
-- **Learner**: I thrive on continuous growth and knowledge acquisition.  
-- **Strategic**: I find the best routes to success even in complex challenges.  
-- **Futuristic**: I’m driven by envisioning and working toward a better tomorrow.  
-- **Input**: I gather and archive valuable information and resources.  
-- **Developer**: I enjoy cultivating the potential in systems and people.  
-- **Relator**: I build strong, authentic relationships with collaborators.  
+- **Achiever** | **Learner** | **Strategic**  
+- **Futuristic** | **Input** | **Developer** | **Relator**
 
 ---
 
 ## 🎯 Focus Areas
 
-- **Low-Cost IoT Soil Sensors**: Prototyping affordable, scalable devices to monitor soil moisture and nutrient levels.  
-- **Precision Agriculture Analytics**: Converting real-time sensor data into actionable water and soil conservation strategies.  
-- **Offline Farm Management Tools**: Developing mobile and desktop apps that function seamlessly in low-connectivity regions.  
-- **Climate Resilience**: Engineering solutions to help smallholder farmers adapt to changing weather patterns.  
+- **Low-Cost IoT Soil Sensors**: Soil moisture/temperature monitoring using ESP32.  
+- **Precision Agriculture Analytics**: Real-time data → water & soil conservation insights.  
+- **Offline Farm Management Tools**: Mobile/desktop apps built for low-connectivity.  
+- **Climate Resilience**: Adapting smallholder systems to evolving weather challenges.
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **BSc (Hons) in Agricultural Information Technology** (in progress)  
-- **IBM‑Certified Java Developer**  
-- **Pursuing Advanced Certifications** in AI and Cloud Architecture  
+- 🎓 **BSc (Hons) Agricultural Information Technology**, University of Zimbabwe (ongoing)  
+- 🏅 **IBM‑Certified Java Developer**  
+- 📘 Advanced coursework planned in AI, cloud architecture
 
 ---
 
 ## 💻 Technical Skills
 
-| Domain                    | Technologies & Tools                                  |
-|--------------------------|--------------------------------------------------------|
-| Programming Languages     | Java, JavaScript (ES6+), Python                       |
-| Web & Backend             | Node.js, Express.js, REST APIs                        |
-| Frontend Frameworks       | React, Vue.js                                         |
-| IoT & Embedded Systems    | Arduino, ESP32, MQTT                                  |
-| Data & Analytics          | SQL, Pandas, NumPy, Matplotlib                        |
-| Cloud & DevOps            | AWS (EC2, S3, Lambda), Docker, Git & GitHub Actions   |
+| Domain                    | Tools & Technologies                                 |
+|---------------------------|------------------------------------------------------|
+| **Programming**           | Java, JavaScript (ES6+), Python                     |
+| **Web & Backend**         | Node.js, Express, REST APIs                         |
+| **Frontend**              | React, Vue.js                                       |
+| **IoT / Embedded Systems**| Arduino, ESP32, MQTT                                |
+| **Data / Analytics**      | SQL, Pandas, NumPy, Matplotlib                      |
+| **Cloud / DevOps**        | AWS (EC2, S3, Lambda), Docker, Git, CI/CD           |
 
 ---
 
 ## 🚀 Selected Projects
 
-### 1. [IoT Soil Sensor Network 🌱](https://github.com/yourusername/soil-sensor)
-- **Description**: A network of low-cost ESP32-based sensors that measure soil moisture and temperature.  
-- **Tech Stack**: Arduino C, MQTT, Node.js, MongoDB  
-- **Highlights**:  
-  - Real-time data dashboard with alert thresholds  
-  - Battery optimization for extended field deployment  
+1. **[IoT Soil Sensor Network 🌱](https://github.com/yourusername/soil-sensor)**  
+   Real-time ESP32-based monitors feeding MQTT into a dashboard. Highlights: battery-efficient deployment and alert systems.
 
-### 2. [Offline Farm Manager App 📱](https://github.com/yourusername/farm-manager)
-- **Description**: A React Native app enabling offline data entry for crop planting schedules and input tracking.  
-- **Tech Stack**: React Native, Redux, SQLite  
-- **Highlights**:  
-  - Automatic sync when connectivity is restored  
-  - Intuitive UI tailored for smallholder use  
+2. **[Offline Farm Manager App 📱](https://github.com/yourusername/farm-manager)**  
+   Offline-first React Native tool for planting schedules and input tracking. Syncs automatically when online.
 
-### 3. [Precision Irrigation Advisor 💧](https://github.com/yourusername/irrigation-advisor)
-- **Description**: Analytics engine converting sensor streams into irrigation recommendations.  
-- **Tech Stack**: Python, Pandas, Flask, AWS Lambda  
-- **Highlights**:  
-  - AI-driven moisture forecasting module  
-  - Email & SMS alerts for irrigation scheduling  
+3. **[Precision Irrigation Advisor 💧](https://github.com/yourusername/irrigation-advisor)**  
+   Python + AWS Lambda engine converting sensor streams into irrigation reminders via AI and SMS/email alerts.
 
 ---
 
@@ -81,5 +71,13 @@
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: [tatendacraigngaliwa@gmail.com](mailto:tatendacraigngaliwa@gmail.com)  
-- 🌍 LinkedIn: [
+I'm always eager to collaborate! You can reach me via:
+
+- 📧 **Email**: [tatendacraigngaliwa@gmail.com](mailto:tatendacraigngaliwa@gmail.com)  
+- 🌍 **LinkedIn**: [linkedin.com/in/tatenda-ngaliwa-739365273](https://www.linkedin.com/in/tatenda-ngaliwa-739365273)  
+- 🐦 **Twitter**: [@TatendaCraig](https://twitter.com/TatendaCraig)  
+- 💬 **WhatsApp**: [Click to message me](https://wa.me/263789847246)
+
+---
+
+I’m committed to building systems that are **resilient**, **inclusive**, and **future-ready**—serving **both people and planet**. 🚜🌏
