@@ -43,9 +43,7 @@ As an IBM‑Certified Java Developer and **Founder & CEO of Zabrano Properties (
 |---------------------------|------------------------------------------------------|
 | **Programming**           | Java, JavaScript (ES6+), Python                     |
 | **Web & Backend**         | Node.js, Express, REST APIs                         |
-| **Frontend**              | React, React Native, Vue.js                         |
-| **IoT / Embedded Systems**| Arduino, ESP32, MQTT                                |
-| **Data / Analytics**      | SQL, Pandas, NumPy, Matplotlib                      |
+| **Frontend**              | React, React Native, Vue.js                                                   |
 | **Cloud / DevOps**        | AWS (EC2, S3, Lambda), Docker, Git, CI/CD           |
 
 ---
