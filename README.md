@@ -95,3 +95,6 @@ I'm always eager to collaborate! You can reach me via:
 ---
 
 I’m committed to building systems that are **resilient**, **inclusive**, and **future-ready**—serving **both people and planet**. 🚜🌏
+
+
+
